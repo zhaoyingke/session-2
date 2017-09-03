@@ -8,9 +8,11 @@ Anatomie d'une page web, initiation au langage HTML
 
 Vous allez travailler sur le fichier index.html, qui contient la structure minimale d'une page web. Tout le contenu doit donc s'écrire au sein du bloc `<body></body>`
 
-- [ ] En utilisant au maximum la liste de balises disponibles ci-dessous, créez *votre premier CV en html*. 
+- [ ] En utilisant au maximum la liste de balises disponibles ci-dessous, et en utilisant la chanson de votre choix, créez une page contenant les paroles et la présentation de l'artiste.
 
 Celui-ci doit s'approcher au maximum du rendu suivant : 
+
+![Site paroles](https://github.com/edj-initiation-code/session-2/blob/master/screencapture-file-Users-julesbonnard-web-edj-session-2-index-html-1504459360156.png?raw=true)
 
 > Pensez à "aérer" votre code en sautant des lignes et en créant des indentations. Cela ne modifie pas le rendu et permet une meilleure lisibilité.
 
@@ -40,6 +42,7 @@ Celui-ci doit s'approcher au maximum du rendu suivant :
 Il existe aussi des blocs génériques, très (trop) utilisés : 
 
 - `<div></div>`
+- `<span></span>`
 
 ### Le texte
 
