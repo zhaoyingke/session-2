@@ -18,11 +18,11 @@ Celui-ci doit s'approcher au maximum du rendu suivant :
 
 ## Listes de balises
 
-> Le HTML est un langage de balises. Celles-ci servent de blocs qui structurent le contenu.
+Le HTML est un langage de balises. Celles-ci servent de blocs qui structurent le contenu.
 
-> La plupart s'ouvrent et se ferment : `<p>Mon texte</p>` (un paragraphe).
+La plupart s'ouvrent et se ferment : `<p>Mon texte</p>` (un paragraphe).
 
-> Mais certaines sont autonomes : `<hr />` (une ligne horizontale).
+Mais certaines sont autonomes : `<hr />` (une ligne horizontale).
 
 > Les balisent doivent se fermer dans l'ordre inverse dont elles ont été ouvertes : 
 
