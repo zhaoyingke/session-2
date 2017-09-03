@@ -51,6 +51,8 @@ Il existe aussi des blocs génériques, très (trop) utilisés :
 - `<h2>Un titre un peu moins important</h2>`, et ainsi de suite h3, h4, h5, h6...
 - `<strong>Un texte en gras</strong>`
 - `<em>Un texte en italiques</em>`
+- `<small>Un texte plus petit</small>`
+- `<big>Un texte plus grand</big>`
 
 ### Les listes
 
