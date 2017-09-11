@@ -84,7 +84,7 @@ Une liste ordonnée :
 
 ### Les médias
 
-- Une image : `<img src="https://adresse.de.limage" />`
+- Une image : `<img src="https://adresse.de.limage.jpg" alt="Description de l'image" />`
 - Un son : `<audio></audio>`
 - Une vidéo : `<video></video>`
 
@@ -94,20 +94,20 @@ Une liste ordonnée :
 <table>
   <caption>Titre du tableau</caption>
   <thead>
-  	<tr>
-  		<td>En-tête 1</td>
-  		<td>En-tête 2</td>
-  	</tr>
+    <tr>
+      <td>En-tête 1</td>
+      <td>En-tête 2</td>
+    </tr>
   </thead>
   <tbody>
-  	<tr>
-  		<td>Ligne 1 - Cellule 1</td>
-  		<td>Ligne 1 - Cellule 2</td>
-  	</tr>
-  	<tr>
-  		<td>Ligne 2 - Cellule 1</td>
-  		<td>Ligne 2 - Cellule 2</td>
-  	</tr>
+    <tr>
+      <td>Ligne 1 - Cellule 1</td>
+      <td>Ligne 1 - Cellule 2</td>
+    </tr>
+    <tr>
+      <td>Ligne 2 - Cellule 1</td>
+      <td>Ligne 2 - Cellule 2</td>
+    </tr>
   </tbody>
 </table>
 ```
