@@ -53,6 +53,7 @@ Il existe aussi des blocs génériques, très (trop) utilisés :
 - `<em>Un texte en italiques</em>`
 - `<small>Un texte plus petit</small>`
 - `<big>Un texte plus grand</big>`
+- `<a href="https://adresse.du.lien">Un lien</a>`
 
 ### Les listes
 
@@ -78,5 +79,45 @@ Une liste ordonnée :
 
 ### Les lignes
 
-- Un saut de ligne : `<br />`
+- Un retour à la ligne : `<br />`
 - Une ligne horizontale : `<hr />`
+
+### Les médias
+
+- Une image : `<img src="https://adresse.de.limage" />`
+- Un son : `<audio></audio>`
+- Une vidéo : `<video></video>`
+
+### Un tableau
+
+```html
+<table>
+  <caption>Titre du tableau</caption>
+  <thead>
+  	<tr>
+  		<td>En-tête 1</td>
+  		<td>En-tête 2</td>
+  	</tr>
+  </thead>
+  <tbody>
+  	<tr>
+  		<td>Ligne 1 - Cellule 1</td>
+  		<td>Ligne 1 - Cellule 2</td>
+  	</tr>
+  	<tr>
+  		<td>Ligne 2 - Cellule 1</td>
+  		<td>Ligne 2 - Cellule 2</td>
+  	</tr>
+  </tbody>
+</table>
+```
+
+### Encore d'autres
+
+- `<adress>Une adresse de contact</adress>`
+- `<abbr>Une abbréviation</abbr>`
+- `<blockquote>Une citation</blockquote>`
+- `<sup>Une texte en exposant</sup>`
+- `<sub>Une texte en indice</sub>`
+- `<mark>Une texte surligné</mark>`
+- `<pre>Un texte pré-formatté</pre>`
